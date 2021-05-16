@@ -1,0 +1,2 @@
+total 0
+-rw-r--r-- 1 N.Reiji 197121 0 May 16 17:55 smaple.txt
